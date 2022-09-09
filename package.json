@@ -4,5 +4,25 @@
   },
   "devDependencies": {
     "jest": "^29.0.2"
-  }
+  },
+  "name": "team-profile-generator",
+  "description": "challenge 10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoerycaxo/team-profile-generator.git"
+  },
+  "author": "Eryca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoerycaxo/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/xoerycaxo/team-profile-generator#readme"
 }
