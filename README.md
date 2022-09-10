@@ -13,11 +13,11 @@ The HTML putput can be viewed at this [link](https://xoerycaxo.github.io/team-pr
 * [Usage](#Usage)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
-* [Contact Information](#Contact Information)
+* [Questions](#Questions)
 
 ## Intstallation
 
-1. To install this application, (`git clone`) this repository, or download the (`.zip file`) in the dropdown after clicking the green ‘Code’ button at the top of this repository—as long as it is in your local branch.
+1. To install this application, `git clone` this repository, or download the `.zip file` in the dropdown after clicking the green ‘Code’ button at the top of this repository—as long as it is in your local branch.
 2. Make sure Node.js is installed.
 3. Using the code editor of your choice, you need to install [Inquirer.js](https://www.npmjs.com/package/inquirer) node package by entering the following in the command line of terminal:
 (`npm inquirer`)
@@ -27,11 +27,11 @@ The HTML putput can be viewed at this [link](https://xoerycaxo.github.io/team-pr
 ## Usage
 
 Ensure that you are in the root directory in order for this application to run successfully. This application will initialize by running this command line in terminal:
-(`node index.js`)
+`node index.js`
 
 The Inquirer package for Node.js collects input regarding your team within the command line. Enter the employee's information as prompted, and it will organize that info & display it on an HTML page.
 
-The newly-generated (`index.html`) file will be found in the (`dist`) folder that goes hand-in-hand with the (`style.css`) file already present there.
+The newly-generated `index.html` file will be found in the (`dist`) folder that goes hand-in-hand with the `style.css` file already present there.
 
 
 
@@ -45,9 +45,9 @@ No contributions at this time. Thank you for your interest.
 
 Enter the following command in terminal to run tests for this application:
 
-(`npm run test`)
+`npm run test`
 
-## Contact Information
+## Questions
 
 Email: [xoerycaxo@gmail.com](xoerycaxo@gmail.com)
 Github: [xoerycaxo](xoerycaxo)
