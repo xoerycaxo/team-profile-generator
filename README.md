@@ -50,4 +50,7 @@ Enter the following command in terminal to run tests for this application:
 ## Questions
 
 Email: [xoerycaxo@gmail.com](xoerycaxo@gmail.com)
+
 Github: [xoerycaxo](xoerycaxo)
+
+Video link: [https://drive.google.com/file/d/1znf-zEZGPjnDf6Yq0gJ4zqwG-BqS2yby/view](https://drive.google.com/file/d/1znf-zEZGPjnDf6Yq0gJ4zqwG-BqS2yby/view)
